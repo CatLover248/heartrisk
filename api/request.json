@@ -1,0 +1,24 @@
+{
+    "Age":"",
+    "Sex":"",
+    "Cholesterol":"",
+    "Diastolic":"",
+    "Systolic":"",
+    "Heart_Rate":"",
+    "Diabetes":"",
+    "Family_History":"",
+    "Smoking":"",
+    "Obesity":"",
+    "Alcohol_Consumption":"",
+    "Exercise_Hours_Per_Week":"",
+    "Diet":"",
+    "Previous_Heart_Problems":"",
+    "Medication_Use":"",
+    "Stress_Level":"",
+    "Sedentary_Hours_Per_Day":"",
+    "Income":"",
+    "BMI":"",
+    "Triglycerides":"",
+    "Physical_Activity_Days_Per_Week":""
+}
+,Age,Sex,Cholesterol,Diastolic,Systolic,Heart Rate,Diabetes,Family History,Smoking,Obesity,Alcohol Consumption,Exercise Hours Per Week,Diet,Previous Heart Problems,Medication Use,Stress Level,Sedentary Hours Per Day,Income,BMI,Triglycerides,Physical Activity Days Per Week,Sleep Hours Per Day,Heart Attack Risk

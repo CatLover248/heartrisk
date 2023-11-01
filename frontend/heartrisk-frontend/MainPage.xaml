@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="heartrisk.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+
+            <Label
+                Text="Welcome to .NET Multi-platform App UI"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Request response"
+                x:Name="ResponseLabel"
+                FontSize="9"
+                HorizontalOptions="Center"
+            />
+            <Entry 
+                Placeholder="Enter URL (enter in just the string default for the default dev url)"
+                x:Name="UrlLabel"
+            />
+
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Age"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Sex"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Cholesterol"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Diastolic"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Systolic"
+            />
+
+
+
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Heart_Rate"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Diabetes"
+            />
+
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Family_History"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Smoking"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Obesity"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Alcohol_Consumption"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Exercise_Hours_Per_Week"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Diet"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Previous_Heart_Problems"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Medication_Use"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Stress_Level"
+            />
+
+            <Entry 
+                Placeholder="..."
+                x:Name="Sedentary_Hours_Per_Day"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Income"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="BMI"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Triglycerides"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Physical_Activity_Days_Per_Week"
+            />
+            <Entry 
+                Placeholder="..."
+                x:Name="Sleep_Hours_Per_Day"
+            />
+
+
+            <Button
+                x:Name="SendRequestBtn"
+                Text="Send Request"
+                Clicked="SendRequestBtn_Clicked"
+                HorizontalOptions="Center"
+            />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
