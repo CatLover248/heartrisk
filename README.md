@@ -12,6 +12,8 @@
 
 # Heart Risk <3 (Read disclamer)
 
+![Image](heartrisk.png)
+
 ## A educational machine learning project. A machine learning model that uses data to predict if you are at risk for heart attacks.
 
 ## How does work?
