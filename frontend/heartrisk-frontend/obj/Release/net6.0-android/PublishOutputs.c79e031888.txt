@@ -1,0 +1,2 @@
+C:\Users\yusuf\Programming\MLandAI\heartrisk\frontend\heartrisk-frontend\bin\Release\net6.0-android\publish\com.companyname.heartrisk-Signed.apk
+C:\Users\yusuf\Programming\MLandAI\heartrisk\frontend\heartrisk-frontend\bin\Release\net6.0-android\publish\com.companyname.heartrisk.apk

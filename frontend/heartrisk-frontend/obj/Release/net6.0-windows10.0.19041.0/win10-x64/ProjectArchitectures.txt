@@ -1,0 +1,1 @@
+C:\Users\yusuf\Programming\MLandAI\heartrisk\frontend\heartrisk-frontend\heartrisk.csproj;x64
